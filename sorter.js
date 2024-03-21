@@ -1,10 +1,27 @@
 // Array of players provided by Specle
 var players = [
-    { name: "Govin G", jerseyNumber: 0, position: "DEF/MID/FWD", rating: 83 },
-    { name: "Ethan M", jerseyNumber: 1, position: "GK", rating: 85 },
-    { name: "Cooper B", jerseyNumber: 5, position: "DEF", rating: 80 },
-    { name: "Eashan K", jerseyNumber: 6, position: "DEF", rating: 78 },
-    { name: "Liang Yu T", jerseyNumber: 7, position: "MID/FWD", rating: 82 },
+    { name: "Govin", jerseyNumber: 0 },
+    { name: "Ethan", jerseyNumber: 1 },
+    { name: "Cooper", jerseyNumber: 5 },
+    { name: "Eashan", jerseyNumber: 6 },
+    { name: "Liang Yu", jerseyNumber: 7 },
+    { name: "Nikush", jerseyNumber: 9 },
+    { name: "Ryan C", jerseyNumber: 13 },
+    { name: "Camillo", jerseyNumber: 16 },
+    { name: "Ryan H", jerseyNumber: 17 },
+    { name: "Oskar", jerseyNumber: 20 },
+    { name: "Cashel", jerseyNumber: 21 },
+    { name: "Lochlan", jerseyNumber: 22 },
+    { name: "Bobby", jerseyNumber: 24 },
+    { name: "Sebastian", jerseyNumber: 26 },
+    { name: "Areeb", jerseyNumber: 28 },
+    { name: "Daniel N", jerseyNumber: 35 },
+    { name: "Ricardo", jerseyNumber: 72 },
+    { name: "Yi-Jay", jerseyNumber: 95 },
+    { name: "Mori", jerseyNumber: 111 },
+    { name: "Dani M", jerseyNumber: 33 },
+    { name: "Daniel M", jerseyNumber: 33 },
+    { name: "Leo", jerseyNumber: 30 }
     // Add more players here
 ];
 
